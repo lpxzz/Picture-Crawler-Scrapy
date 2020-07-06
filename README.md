@@ -7,3 +7,5 @@ Scrapy 1.6.0
 2.根目录运行 `scrapy crawl nvshen`  nvshen为爬虫名称  
 
 3.输入图片集网址
+  
+(https://s1.ax1x.com/2020/07/06/UPbNC9.gif)
