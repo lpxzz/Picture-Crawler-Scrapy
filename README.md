@@ -8,4 +8,4 @@ Scrapy 1.6.0
 
 3.输入图片集网址
   
-![Image text](https://s1.ax1x.com/2020/07/06/UPbNC9.gif)
+![image](https://s1.ax1x.com/2020/07/06/UPbNC9.gif)
